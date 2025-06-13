@@ -198,3 +198,6 @@ cython_debug/
 .cursorignore
 .cursorindexingignoreprocessed/cleaned_train_set.csv 
 ".dvc/cache/" 
+"Data/cleaned_data.csv" 
+"Data/MachineLearningRating_v3.txt" 
+".dvc/cache/" 
