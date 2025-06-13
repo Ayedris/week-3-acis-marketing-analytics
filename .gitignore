@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 # Ignore large files
 processed/cleaned_train_set.csv
+Data/processed/cleaned_train_set.csv
 
 .Python
 build/
