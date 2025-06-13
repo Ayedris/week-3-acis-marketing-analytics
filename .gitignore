@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+Data/cleaned_data.csv
+Data/MachineLearningRating_v3.txt
+.dvc/cache/
 
 # Distribution / packaging
 # Ignore large files
@@ -197,7 +200,3 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignoreprocessed/cleaned_train_set.csv 
-".dvc/cache/" 
-"Data/cleaned_data.csv" 
-"Data/MachineLearningRating_v3.txt" 
-".dvc/cache/" 
