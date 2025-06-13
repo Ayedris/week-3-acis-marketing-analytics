@@ -10,6 +10,7 @@ __pycache__/
 # Ignore large files
 processed/cleaned_train_set.csv
 Data/processed/cleaned_train_set.csv
+.dvc/cache/
 
 .Python
 build/
@@ -196,3 +197,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignoreprocessed/cleaned_train_set.csv 
+".dvc/cache/" 
